@@ -4,7 +4,6 @@ Two-slot loop recorder. A thin bar sits permanently at the bottom of the screen,
 
 ## Layout
 
-
 ```
 🌀 Looper  ⌄   ●A  ○B                     [ ● ON ]
 ```
@@ -13,21 +12,9 @@ Two-slot loop recorder. A thin bar sits permanently at the bottom of the screen,
 - **A / B dots** — per-slot state color (red = recording, green = playing, orange = overdubbing, gray = idle)
 - **ON/OFF toggle** — enables the looper. Disabled means it's removed from the DSP chain
 
-![Looper bar expanded](screenshots/looper-expanded.png)
+<img src="screenshots/looper-expanded.png" alt="Looper bar expanded" width="320">
 
 Inside the expanded panel, Loop A sits above Loop B:
-
-```
-┌──────────────────────────────────────────┐
-│  ●  Loop A   ▶ PLAY                4.2s │
-│  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░                │  ← playback position bar
-│  [REC] [PLAY] [OVR] [STOP]  UNDO  CLR   │
-├──────────────────────────────────────────┤
-│  ●  Loop B   ■ IDLE                 --  │
-│  ░░░░░░░░░░░░░░░░░░░░░░░░░░░            │
-│  [REC] [PLAY] [OVR] [STOP]  UNDO  CLR  SYNC │
-└──────────────────────────────────────────┘
-```
 
 ## Slot States
 
@@ -37,8 +24,6 @@ Inside the expanded panel, Loop A sits above Loop B:
 | **Recording (●)** | Red | Capturing input into the buffer |
 | **Playing (▶)** | Green | Playing the recorded loop |
 | **Overdub (◉)** | Orange | Playing while layering in new input |
-
-## Controls
 
 ### REC
 - From **Idle**: starts recording (red).
@@ -68,8 +53,6 @@ Inside the expanded panel, Loop A sits above Loop B:
 - When recording into B, auto-ends at the length of Loop A.
 - Example: A is a 4.0 s loop. Hit REC on B, and at 4.0 s it switches to Playing automatically.
 - If A isn't recorded yet, SYNC has no effect.
-
-## Examples
 
 ### Basic one-slot loop
 1. Flip the looper **ON/OFF toggle** to ON.

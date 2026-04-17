@@ -2,20 +2,7 @@
 
 6-band EQ plus a high-pass filter, a narrow notch, and a phase-invert switch. Designed around the acoustic guitar's typical **feedback frequencies** and **box-tone resonance**.
 
-![EQ screen](../screenshots/effect-eq.png)
-
-## Layout
-
-```
-┌─────────────────────────────────────────────────┐
-│  Parametric EQ                       [ ON ]     │
-├─────────────────────────────────────────────────┤
-│     [ Normal | Invert ]   Phase                 │
-│                                                  │
-│   🎛 HPF   🎛 85Hz   🎛 350Hz  🎛 700Hz         │  ← Row 1
-│   🎛 1.6k  🎛 4.8k   🎛 10k    🎛 Notch         │  ← Row 2
-└─────────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-eq.png" alt="EQ screen" width="320">
 
 ## Parameters
 
@@ -30,8 +17,6 @@
 | **4.8 kHz** | −9 to +9 dB | High presence (pick noise) |
 | **10 kHz** | −9 to +9 dB | Air |
 | **Notch** | Off, 20–300 Hz | Narrow single-band cut — kills a specific feedback frequency |
-
-## Acoustic Guitar EQ Starter Recipes
 
 ### Clean-up (starting point)
 - **HPF 80 Hz**: remove rumble

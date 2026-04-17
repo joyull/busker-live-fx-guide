@@ -12,24 +12,7 @@ Remote-control presets, effect bypass, looper commands, and tap tempo from an ex
 
 Tap **🎛 MIDI** in the title bar → MIDI Controller screen.
 
-![MIDI Controller screen](screenshots/midi-main.png)
-
-```
-┌─────────────────────────────────────────┐
-│  ← MIDI Controller            Done     │
-├─────────────────────────────────────────┤
-│  MIDI DEVICE                            │
-│  ✓  MeloAudio MIDI Commander            │
-│                                         │
-│  MAPPINGS                            +  │
-│  Tap Tempo                              │
-│    CC #64 ch 1  →  Tap Tempo   [Learn] │
-│  Preset Next                            │
-│    CC #65 ch 1  →  Preset Next [Learn] │
-│  Looper REC A                           │
-│    Note 60 ch 1 →  Looper REC A[Learn] │
-└─────────────────────────────────────────┘
-```
+<img src="screenshots/midi-main.png" alt="MIDI Controller screen" width="320">
 
 ### Top: MIDI Device
 Connected MIDI devices. The checkmark shows the active one. A single device is auto-selected; tap to switch when multiple are connected.
@@ -46,24 +29,7 @@ Use **+** in the header to add a new mapping.
 
 Tap **+** → the Add Mapping sheet appears.
 
-![Add MIDI mapping](screenshots/midi-add.png)
-
-```
-┌─────────────────────────────────────────┐
-│  Cancel   Add Mapping          Add     │
-├─────────────────────────────────────────┤
-│  MIDI TRIGGER                  [Learn] │  ← pinned
-│  [ CC  NOTE  NOTE_OFF  PC ]            │
-│  Ch 1          # 64                    │
-├─────────────────────────────────────────┤
-│  SELECTED ACTION                        │
-│  (Tap a section below, then pick)      │
-│                                         │
-│  ▸ Global    (9)                       │  ← scrolls
-│  ▸ Effect   (10)                       │
-│  ▸ Looper   (12)                       │
-└─────────────────────────────────────────┘
-```
+<img src="screenshots/midi-add.png" alt="Add MIDI mapping" width="320">
 
 ### 1. Set the trigger (top, pinned)
 - **Message Type**: CC / NOTE (On) / NOTE_OFF / PC (Program Change)
@@ -90,10 +56,6 @@ On/off for each of the channel's 10 effects:
 #### Looper (12 commands)
 For both Loop A and Loop B:
 - Record / Play / Stop / Overdub / Undo / Clear
-
-### 3. Tap Add
-
-## Examples
 
 ### Boss FS-7 2-button switch → Tuner + Boost bypass
 1. Plug in the USB MIDI adapter — the device auto-appears.

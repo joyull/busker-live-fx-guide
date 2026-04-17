@@ -2,26 +2,11 @@
 
 입력 신호를 일정 시간 늦춰 반복 재생하는 이펙트. **Digital** (깨끗하고 정확)과 **Tape** (따뜻하고 유기적) 두 가지 모드. 어쿠스틱 기타에서는 핑거스타일의 공간감·앰비언트 레이어링·슬랩백 에코 등 다양하게 쓰입니다.
 
-![Delay 화면](../../screenshots/effect-delay.png)
+<img src="../../screenshots/effect-delay.png" alt="Delay 화면" width="320">
 
 ## 화면 구성
 
-```
-┌───────────────────────────────────────────────────┐
-│  Delay                                [ ON ]      │
-├───────────────────────────────────────────────────┤
-│  🎛 Mod Rate    [ Digital | Tape ]    [ TAP ]     │  ← Row 1
-│                 [ Normal  | Fast ]                │     (Tape 시만)
-│                                                    │
-│  🎛 Time  🎛 Feedback  🎛 Mix   🎛 Filter/Age     │  ← Row 2
-│                                                    │
-│  🎛 LF Cut  🎛 Grit/Bias  🎛 Mod   🎛 Smear/LoC   │  ← Row 3
-└───────────────────────────────────────────────────┘
-```
-
 > ⚠️ **파라미터 라벨이 Mode에 따라 바뀝니다.** Digital ↔ Tape 전환 시 Filter/Age, Grit/Bias, Mod/Wow·Flut, Smear/Lo Contour, Mod Rate/Crinkle이 같은 노브 위치에서 라벨만 바뀌어요.
-
-## Mode
 
 ### Digital
 깨끗하고 정확한 반복. 핑거스타일·앰비언트에 적합. 60~2500ms 범위.

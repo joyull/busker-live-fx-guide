@@ -2,18 +2,7 @@
 
 솔로 구간에서 **볼륨을 올리고 중역을 강조**해 돋보이게 만드는 이펙트. 일반 부스터 페달과 달리 어쿠스틱 기타에 맞춘 Mid Focus와 Limiter가 포함되어 있습니다.
 
-![Solo Boost 화면](../../screenshots/effect-boost.png)
-
-## 화면 구성
-
-```
-┌─────────────────────────────────────────────┐
-│  Solo Boost                      [ ON ]     │
-├─────────────────────────────────────────────┤
-│   🎛 Boost   🎛 Saturate                    │
-│   🎛 Mid Focus   [ Limiter: ON ]            │
-└─────────────────────────────────────────────┘
-```
+<img src="../../screenshots/effect-boost.png" alt="Solo Boost 화면" width="320">
 
 ## 파라미터
 
@@ -23,8 +12,6 @@
 | **Saturate** | 0–100 % | 부드러운 소프트클립 새츄레이션. 높일수록 음색 두꺼워지고 하모닉 추가 |
 | **Mid Focus** | 0–100 % | 1–3 kHz 중역 강조. 솔로 라인이 믹스에서 튀어나오게 함 |
 | **Limiter** | ON / OFF | 부스트로 인한 피크 제한 (스피커·앰프 보호) |
-
-## 사용 시나리오
 
 ### 기본 솔로 부스트
 - Boost **+6 dB**, Saturate 10%, Mid Focus 30%, Limiter ON

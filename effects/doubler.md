@@ -2,22 +2,7 @@
 
 Makes a single guitar track sound **doubled or widened**, mimicking the stereo multi-take technique common in acoustic recordings.
 
-![Doubler screen](../screenshots/effect-doubler.png)
-
-## Layout
-
-```
-┌───────────────────────────────────────────────┐
-│  Doubler                           [ ON ]     │
-├───────────────────────────────────────────────┤
-│   [ Voices: 1 | 2 ]                 [Expert]  │
-│                                                │
-│   🎛 Mix    🎛 Tight   🎛 Width  🎛 HF Tilt   │
-│                                                │
-│   ─── Expert only (when toggle is on) ────    │
-│   🎛 Detune  🎛 Spread  🎛 Jitter             │
-└───────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-doubler.png" alt="Doubler screen" width="320">
 
 ## Main Parameters
 
@@ -38,8 +23,6 @@ Flip the Expert toggle to reveal three finer controls.
 | **Detune** | ±0–25 cents | Pitch variation of the doubled layers |
 | **Spread** | 0.5× to 2.0× | Timing gap multiplier between layers |
 | **Jitter** | 0–100 % | Random variation — adds a human-hand feel |
-
-## Examples
 
 ### Classic stereo double (folk / pop recording)
 - Voices **2**, Mix 35 %, Tight 60 %, Width 80 %, HF Tilt +1 dB
