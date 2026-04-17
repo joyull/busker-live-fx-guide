@@ -2,26 +2,11 @@
 
 Repeats the input signal at a set time interval. Two modes: **Digital** (clean, precise) and **Tape** (warm, organic). On acoustic guitar it's used for fingerstyle space, ambient layering, slapback echo, and more.
 
-![Delay screen](../screenshots/effect-delay.png)
+<img src="../screenshots/effect-delay.png" alt="Delay screen" width="320">
 
 ## Layout
 
-```
-┌───────────────────────────────────────────────────┐
-│  Delay                                [ ON ]      │
-├───────────────────────────────────────────────────┤
-│  🎛 Mod Rate    [ Digital | Tape ]    [ TAP ]     │  ← Row 1
-│                 [ Normal  | Fast ]                │     (Tape only)
-│                                                    │
-│  🎛 Time  🎛 Feedback  🎛 Mix   🎛 Filter/Age     │  ← Row 2
-│                                                    │
-│  🎛 LF Cut  🎛 Grit/Bias  🎛 Mod   🎛 Smear/LoC   │  ← Row 3
-└───────────────────────────────────────────────────┘
-```
-
 > ⚠️ **Several labels change with Mode.** Switching between Digital and Tape renames Filter/Age, Grit/Bias, Mod/Wow·Flut, Smear/Lo Contour, and Mod Rate/Crinkle on the same knob positions.
-
-## Modes
 
 ### Digital
 Clean, precise repeats. Best for fingerstyle / ambient. 60–2500 ms range.

@@ -2,24 +2,7 @@
 
 Analyzes the input signal and displays pitch (note / octave / cents). It sits at the head of the chain and is unaffected by downstream effects.
 
-![Tuner screen](../screenshots/effect-tuner.png)
-
-## Layout
-
-```
-┌──────────────────────────────────────────┐
-│  Tuner                        [ ON ]     │
-├──────────────────────────────────────────┤
-│                                          │
-│              A                           │  ← detected note
-│           2  -3¢                         │  ← octave + cents
-│       ●──────────○──────────●           │  ← cents gauge
-│                                          │
-│        440.0 Hz       conf 96%           │  ← frequency / confidence
-│                                          │
-│           [ 🔇  Mute ]                   │
-└──────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-tuner.png" alt="Tuner screen" width="320">
 
 ## Readouts
 
@@ -29,8 +12,6 @@ Analyzes the input signal and displays pitch (note / octave / cents). It sits at
 - **Cents gauge**: center ● = in tune, left = flat, right = sharp
 - **Frequency**: detected frequency in Hz
 - **Confidence**: 0–100%. Drops on noise or silence
-
-## Controls
 
 ### ON/OFF (header capsule)
 - **ON**: tuner tap is active. Unless Mute is also on, audio still passes through the chain.

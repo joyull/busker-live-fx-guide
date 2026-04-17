@@ -2,18 +2,7 @@
 
 Lifts volume and adds **mid-range presence** for solo sections. Unlike a generic booster pedal, Mid Focus and Limiter are tuned for acoustic guitar.
 
-![Solo Boost screen](../screenshots/effect-boost.png)
-
-## Layout
-
-```
-┌─────────────────────────────────────────────┐
-│  Solo Boost                      [ ON ]     │
-├─────────────────────────────────────────────┤
-│   🎛 Boost   🎛 Saturate                    │
-│   🎛 Mid Focus   [ Limiter: ON ]            │
-└─────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-boost.png" alt="Solo Boost screen" width="320">
 
 ## Parameters
 
@@ -23,8 +12,6 @@ Lifts volume and adds **mid-range presence** for solo sections. Unlike a generic
 | **Saturate** | 0–100 % | Soft-clip saturation — thickens tone and adds harmonics |
 | **Mid Focus** | 0–100 % | 1–3 kHz presence bump — makes the solo cut through |
 | **Limiter** | ON / OFF | Peak limiter to protect speakers / the amp |
-
-## Scenarios
 
 ### Plain solo boost
 - Boost **+6 dB**, Saturate 10 %, Mid Focus 30 %, Limiter ON

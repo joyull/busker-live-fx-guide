@@ -4,27 +4,7 @@ Overall feature guide for the acoustic-guitar multi-effector. For per-effect det
 
 ## 1. App Layout at a Glance
 
-![Home screen](screenshots/home.png)
-
-```
-┌───────────────────────────────────────────────┐
-│  Busker Live FX        ≡  🎛  ⚙              │  ← Title bar
-├───────────────────────────────────────────────┤
-│  [ CH1  🎸 Guitar  +3dB·C    ⏻   ⌄ ]         │  ← Channel header (collapsed)
-│         • • • •                               │  ← Page dots (4 channels)
-├───────────────────────────────────────────────┤
-│  [Tu][Cp][EQ][AM][Bo][IR][Db][Ch][Dl][Rv]    │  ← Signal chain bar
-│  ┌──────────────────────────────────────┐    │
-│  │  AMP Simulator              [ ON ]   │    │
-│  │  🎛 Gain  Bass  Middle  Treble       │    │  ← Selected effect editor
-│  │  🎛 Color Master  Speaker            │    │
-│  └──────────────────────────────────────┘    │
-├───────────────────────────────────────────────┤
-│  🌀 Looper  A●  B○               [ ● ]       │  ← Looper bar
-├───────────────────────────────────────────────┤
-│  -18dB  ─▓▓▓░░░  48kHz  64smp  1.2ms  ✓      │  ← Status bar
-└───────────────────────────────────────────────┘
-```
+<img src="screenshots/home.png" alt="Home screen" width="320">
 
 ### 1-1. Title bar (top)
 
@@ -36,7 +16,7 @@ Overall feature guide for the acoustic-guitar multi-effector. For per-effect det
 
 Defaults to a single collapsed row. Tap to expand and reveal the channel type toggle (Guitar/Vocal) and gain/pan sliders.
 
-![Channel header expanded](screenshots/channel-expanded.png)
+<img src="screenshots/channel-expanded.png" alt="Channel header expanded" width="320">
 
 **Channel model**
 - Up to **4 simultaneous channels** (CH1–CH4). The app matches the physical input count of your audio interface.
@@ -75,8 +55,6 @@ Always visible. See the [Looper guide](looper.md) for full details.
 - **Input level** (dB + meter)
 - **Sample rate / buffer size / round-trip latency**
 - **Glitch counter** (✓ at 0, ⚠ at 1+)
-
-## 2. Workflow Examples
 
 ### Guitar + vocal (2 channels)
 
@@ -117,7 +95,7 @@ Some interfaces (Audient iD4, SSL 2+, MOTU M2, etc.) **report loopback channels 
 
 ## 5. Settings (⚙)
 
-![Settings sheet](screenshots/settings.png)
+<img src="screenshots/settings.png" alt="Settings sheet" width="320">
 
 - **Sample Rate**: 44.1 kHz / 48 kHz (default 48)
 - **Buffer Size**: 32 / 64 / 128 / 256 samples (smaller = lower latency, higher glitch risk)

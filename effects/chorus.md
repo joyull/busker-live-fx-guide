@@ -2,34 +2,10 @@
 
 Subtle pitch and time modulation that makes the tone **move**. On acoustic guitar it adds gentle space or a "wet" character.
 
-![Chorus screen](../screenshots/effect-chorus.png)
-
-## Layout
+<img src="../screenshots/effect-chorus.png" alt="Chorus screen" width="320">
 
 ### Normal
-```
-┌──────────────────────────────────────────────┐
-│  Chorus                           [ ON ]     │
-├──────────────────────────────────────────────┤
-│  MODE  [1] [2] [3] [4]              [Expert] │
-│                                               │
-│       🎛 Mix     🎛 Width   🎛 Character     │
-└──────────────────────────────────────────────┘
-```
-
 ### Expert
-```
-┌──────────────────────────────────────────────┐
-│  Chorus                           [ ON ]     │
-├──────────────────────────────────────────────┤
-│  EXPERT MODE                        [Expert] │
-│                                               │
-│   🎛 Mix   🎛 Rate   🎛 Depth  🎛 Width      │
-│                                               │
-│             🎛 Character                      │
-└──────────────────────────────────────────────┘
-```
-
 ## Mode (1–4)
 
 Four internal algorithm presets. Higher numbers = richer modulation.
@@ -59,8 +35,6 @@ Expert mode exposes direct LFO control.
 | **Depth** | 0–100 % | Modulation depth |
 
 Mode buttons are hidden in Expert mode, but the internal value is preserved.
-
-## Examples
 
 ### Gentle ambience
 - Mode **2**, Mix 20 %, Width 60 %, Character 30 %

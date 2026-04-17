@@ -2,18 +2,7 @@
 
 A dynamics processor that reduces loud parts and lifts quieter ones. On acoustic guitar it evens out fingerpicking attacks so the instrument sits consistently in a mix or live PA.
 
-![Compressor screen](../screenshots/effect-compressor.png)
-
-## Layout
-
-```
-┌────────────────────────────────────────────┐
-│  Compressor                     [ ON ]     │
-├────────────────────────────────────────────┤
-│    🎛 Comp     🎛 Level     🎛 Tilt        │  ← Row 1
-│    🎛 Mids   [ Fast | Slow ]  🎛 Blend     │  ← Row 2
-└────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-compressor.png" alt="Compressor screen" width="320">
 
 ## Parameters
 
@@ -25,8 +14,6 @@ A dynamics processor that reduces loud parts and lifts quieter ones. On acoustic
 | **Mids** | −10 to +10 dB | Mid-range boost/cut (presence) |
 | **Attack** | Fast / Slow | Transient response — Fast tames attacks, Slow lets them through |
 | **Blend** | 0–100 % | Parallel mix of compressed and dry signal |
-
-## Settings
 
 ### Fingerpicking (default)
 - Comp 40–60 %, Level 4 dB, Attack **Slow**, Blend 70 %

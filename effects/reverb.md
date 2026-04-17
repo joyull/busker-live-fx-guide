@@ -2,22 +2,7 @@
 
 Adds spatial ambience. Based on a Dattorro Plate algorithm with 5 room presets, 5 main knobs, and an optional Shimmer layer — tuned for natural-sounding acoustic-guitar spaces.
 
-![Reverb screen](../screenshots/effect-reverb.png)
-
-## Layout
-
-```
-┌───────────────────────────────────────────────────┐
-│  Reverb                              [ ON ]       │
-├───────────────────────────────────────────────────┤
-│  [Booth][Studio][Plate][Hall][Cathedral]          │  ← preset strip
-│                                                    │
-│    🎛 Mix      🎛 Decay     🎛 Tone               │  ← Row 1
-│    🎛 Pre-Dly  🎛 Size     🎛 Shimmer             │  ← Row 2
-│                                                    │
-│           ⌄ Engineer View                         │  ← (Debug build)
-└───────────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-reverb.png" alt="Reverb screen" width="320">
 
 ## Room Presets
 
@@ -66,8 +51,6 @@ Active when `shimmer > 1 %`. Feeds a pitch-shifted copy (one octave up) into the
 | Ambient layer | Cathedral | 35 % | 80 % | 40 % | 45 % | 85 % | 40 % |
 | Fingerstyle live | Plate | 22 % | 45 % | 55 % | 20 % | 40 % | 0 |
 | Dreamy intro | Cathedral | 40 % | 85 % | 35 % | 50 % | 90 % | 70 % |
-
-## Parameter Deep Dive
 
 ### Mix
 Too high and the tail drowns the original. **20–30 %** is usually ideal.

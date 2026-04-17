@@ -2,19 +2,7 @@
 
 Loads a WAV/AIFF file and applies it via convolution, reproducing the captured response of a **guitar body, mic, room, or speaker cab**. For acoustic guitar the most common use is a **body IR** — a studio-mic recording of a specific instrument's resonance.
 
-![IR Loader screen](../screenshots/effect-ir.png)
-
-## Layout
-
-```
-┌──────────────────────────────────────────────┐
-│  IR Loader                         [ ON ]    │
-├──────────────────────────────────────────────┤
-│  my_acoustic_IR.wav            [📄 Load IR ] │
-│                                               │
-│             🎛 Mix          🎛 Gain           │
-└──────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-ir.png" alt="IR Loader screen" width="320">
 
 ## Parameters
 
@@ -33,8 +21,6 @@ Common acoustic IR types:
 - **Room IR**: studio / church / chamber
 - **Mic IR**: a specific microphone's response (e.g. Neumann U87)
 - **Speaker IR**: electric amp cab — not recommended for acoustic
-
-## How to use
 
 ### 1. Prepare your IR
 - WAV or AIFF format
@@ -58,8 +44,6 @@ Popular sources:
 ### 4. Blend
 - **Mix**: start at 70–100 % to hear the full IR effect.
 - **Gain**: compensate if the level jumps after loading.
-
-## Recommended Settings
 
 ### Body IR (pickup → mic tone)
 - Mix **80–100 %**, Gain 0 dB

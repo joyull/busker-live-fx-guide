@@ -2,18 +2,7 @@
 
 Simulates an acoustic guitar amp. Unlike electric amps, this is mostly a **clean preamp + 3-band tone stack + Color character + speaker sim**.
 
-![AMP Simulator screen](../screenshots/effect-amp.png)
-
-## Layout
-
-```
-┌────────────────────────────────────────────────┐
-│  AMP Simulator                    [ ON ]       │
-├────────────────────────────────────────────────┤
-│   🎛 Gain   🎛 Bass   🎛 Middle  🎛 Treble     │
-│   🎛 Color  🎛 Master [Speaker: ON ]           │
-└────────────────────────────────────────────────┘
-```
+<img src="../screenshots/effect-amp.png" alt="AMP Simulator screen" width="320">
 
 ## Parameters
 
@@ -46,8 +35,6 @@ Color controls the **nonlinearity** of the preamp circuit:
 **ON**: models a small acoustic amp cab (8–10 inch) — high rolloff + low resonance.
 - **Live PA** or **DI recording**: **ON recommended**. Flat-response PA speakers on a DI signal sound harsh.
 - **If using the IR Loader**: **OFF** — the IR replaces the cab.
-
-## Example Settings
 
 ### Folk / pop strumming
 - Gain 5 dB, Bass +1, Middle 0, Treble +2, Color 40 %, Master −3 dB, Speaker ON

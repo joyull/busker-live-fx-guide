@@ -2,18 +2,7 @@
 
 큰 소리는 누르고 작은 소리는 덜 누르는 다이내믹 프로세서. 어쿠스틱 기타에서는 핑거피킹의 어택을 균일하게 만들어 녹음·라이브 믹스에서 잘 들리게 합니다.
 
-![Compressor 화면](../../screenshots/effect-compressor.png)
-
-## 화면 구성
-
-```
-┌────────────────────────────────────────────┐
-│  Compressor                     [ ON ]     │
-├────────────────────────────────────────────┤
-│    🎛 Comp     🎛 Level     🎛 Tilt        │  ← Row 1
-│    🎛 Mids   [ Fast | Slow ]  🎛 Blend     │  ← Row 2
-└────────────────────────────────────────────┘
-```
+<img src="../../screenshots/effect-compressor.png" alt="Compressor 화면" width="320">
 
 ## 파라미터
 
@@ -25,8 +14,6 @@
 | **Mids** | −10 to +10 dB | 중역대 부스트/컷 (존재감 조정) |
 | **Attack** | Fast / Slow | 트랜지언트 반응 속도 — Fast는 빠른 어택 제어, Slow는 어택 살림 |
 | **Blend** | 0–100 % | 압축 후 신호와 원본 dry의 병렬 믹스 (패러럴 컴프레션) |
-
-## 조작 가이드
 
 ### 핑거피킹 (기본)
 - Comp 40–60%, Level 4 dB, Attack **Slow**, Blend 70%

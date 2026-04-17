@@ -12,24 +12,7 @@
 
 타이틀 바의 **🎛 MIDI** 아이콘 탭 → MIDI Controller 화면.
 
-![MIDI Controller 화면](../screenshots/midi-main.png)
-
-```
-┌─────────────────────────────────────────┐
-│  ← MIDI Controller            Done     │
-├─────────────────────────────────────────┤
-│  MIDI DEVICE                            │
-│  ✓  MeloAudio MIDI Commander            │
-│                                         │
-│  MAPPINGS                            +  │
-│  Tap Tempo                              │
-│    CC #64 ch 1  →  Tap Tempo   [Learn] │
-│  Preset Next                            │
-│    CC #65 ch 1  →  Preset Next [Learn] │
-│  Looper REC A                           │
-│    Note 60 ch 1 →  Looper REC A[Learn] │
-└─────────────────────────────────────────┘
-```
+<img src="../screenshots/midi-main.png" alt="MIDI Controller 화면" width="320">
 
 ### 상단: MIDI Device 섹션
 연결된 모든 MIDI 장치 목록. 체크 표시된 것이 현재 활성 장치. 하나만 연결돼 있으면 자동 선택됨. 여러 대 연결 시 탭해서 전환.
@@ -46,24 +29,7 @@
 
 **+** 탭 → Add Mapping 시트.
 
-![MIDI 매핑 추가](../screenshots/midi-add.png)
-
-```
-┌─────────────────────────────────────────┐
-│  Cancel   Add Mapping          Add     │
-├─────────────────────────────────────────┤
-│  MIDI TRIGGER                  [Learn] │  ← 고정 상단
-│  [ CC  NOTE  NOTE_OFF  PC ]            │
-│  Ch 1          # 64                    │
-├─────────────────────────────────────────┤
-│  SELECTED ACTION                        │
-│  (Tap a section below, then pick)      │
-│                                         │
-│  ▸ Global    (9)                       │  ← 스크롤
-│  ▸ Effect   (10)                       │
-│  ▸ Looper   (12)                       │
-└─────────────────────────────────────────┘
-```
+<img src="../screenshots/midi-add.png" alt="MIDI 매핑 추가" width="320">
 
 ### 1. 트리거 지정 (상단, 고정)
 어떤 MIDI 메시지에 반응할지 설정.
@@ -91,10 +57,6 @@
 #### Looper (12가지 루퍼 명령)
 Loop A, Loop B 각각에 대해:
 - Record / Play / Stop / Overdub / Undo / Clear
-
-### 3. Add 탭 → 매핑 완성
-
-## 사용 예시
 
 ### Boss FS-7 2버튼 풋스위치로 튜너·솔로부스트 ON/OFF
 1. USB MIDI 어댑터로 연결 → 메인 화면에서 장치 자동 인식.
