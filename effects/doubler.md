@@ -3,7 +3,6 @@
 Makes a single guitar track sound **doubled or widened**, mimicking the stereo multi-take technique common in acoustic recordings.
 
 ![Doubler screen](../screenshots/effect-doubler.png)
-<!-- SCREENSHOT: Doubler — Voices toggle + Expert switch + 4 main knobs + (when Expert) 3 extra knobs -->
 
 ## Layout
 

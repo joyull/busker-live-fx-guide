@@ -3,7 +3,6 @@
 입력 신호의 주파수를 분석해 음 이름·옥타브·세미톤 오차(cents)를 표시합니다. 체인 맨 앞에 있어 다른 이펙트의 영향을 받지 않습니다.
 
 ![Tuner 화면](../../screenshots/effect-tuner.png)
-<!-- SCREENSHOT: Tuner — 큰 음 이름 + cents 인디케이터 + Frequency + Confidence + Mute -->
 
 ## 화면 구성
 

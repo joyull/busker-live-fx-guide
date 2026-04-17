@@ -13,7 +13,6 @@ Remote-control presets, effect bypass, looper commands, and tap tempo from an ex
 Tap **🎛 MIDI** in the title bar → MIDI Controller screen.
 
 ![MIDI Controller screen](screenshots/midi-main.png)
-<!-- SCREENSHOT: MIDI main screen — MIDI Device section + Mappings section -->
 
 ```
 ┌─────────────────────────────────────────┐
@@ -48,7 +47,6 @@ Use **+** in the header to add a new mapping.
 Tap **+** → the Add Mapping sheet appears.
 
 ![Add MIDI mapping](screenshots/midi-add.png)
-<!-- SCREENSHOT: Add Mapping sheet — pinned Trigger panel (top) + scrollable Action picker (bottom) -->
 
 ```
 ┌─────────────────────────────────────────┐

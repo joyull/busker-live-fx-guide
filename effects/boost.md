@@ -3,7 +3,6 @@
 Lifts volume and adds **mid-range presence** for solo sections. Unlike a generic booster pedal, Mid Focus and Limiter are tuned for acoustic guitar.
 
 ![Solo Boost screen](../screenshots/effect-boost.png)
-<!-- SCREENSHOT: Boost — Boost/Saturate/Mid Focus knobs + Limiter toggle -->
 
 ## Layout
 

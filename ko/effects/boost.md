@@ -3,7 +3,6 @@
 솔로 구간에서 **볼륨을 올리고 중역을 강조**해 돋보이게 만드는 이펙트. 일반 부스터 페달과 달리 어쿠스틱 기타에 맞춘 Mid Focus와 Limiter가 포함되어 있습니다.
 
 ![Solo Boost 화면](../../screenshots/effect-boost.png)
-<!-- SCREENSHOT: Boost — Boost/Saturate/Mid Focus 노브 + Limiter 토글 -->
 
 ## 화면 구성
 

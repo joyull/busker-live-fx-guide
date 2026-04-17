@@ -3,7 +3,6 @@
 A dynamics processor that reduces loud parts and lifts quieter ones. On acoustic guitar it evens out fingerpicking attacks so the instrument sits consistently in a mix or live PA.
 
 ![Compressor screen](../screenshots/effect-compressor.png)
-<!-- SCREENSHOT: Compressor — 6 knobs/toggles across 2 rows -->
 
 ## Layout
 

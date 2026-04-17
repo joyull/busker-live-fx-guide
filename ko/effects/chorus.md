@@ -3,7 +3,6 @@
 미세한 피치·시간 변조로 소리를 **움직이게 만드는** 이펙트. 어쿠스틱 기타에서는 잔잔한 공간감이나 "젖은" 질감을 위해 사용합니다.
 
 ![Chorus 화면](../../screenshots/effect-chorus.png)
-<!-- SCREENSHOT: Chorus — Mode 1-4 버튼 + Mix/Width/Character 노브 (Expert 시 추가 노브) -->
 
 ## 화면 구성
 

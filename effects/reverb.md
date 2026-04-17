@@ -3,7 +3,6 @@
 Adds spatial ambience. Based on a Dattorro Plate algorithm with 5 room presets, 5 main knobs, and an optional Shimmer layer — tuned for natural-sounding acoustic-guitar spaces.
 
 ![Reverb screen](../screenshots/effect-reverb.png)
-<!-- SCREENSHOT: Reverb — preset strip + Mix/Decay/Tone + Pre-Dly/Size(/Shimmer) + Engineer View toggle -->
 
 ## Layout
 

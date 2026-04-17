@@ -4,8 +4,6 @@
 
 ## 화면 구조
 
-![루퍼 바 접힘](../screenshots/looper-collapsed.png)
-<!-- SCREENSHOT: 하단 접힌 루퍼 바 — Looper 타이틀 + A/B 슬롯 상태 도트 + ON/OFF 토글 -->
 
 ```
 🌀 Looper  ⌄   ●A  ○B                     [ ● ON ]
@@ -16,7 +14,6 @@
 - **ON/OFF 토글**: 루퍼 자체 활성화. OFF면 DSP 체인에서 제외
 
 ![루퍼 바 펼침](../screenshots/looper-expanded.png)
-<!-- SCREENSHOT: 펼친 루퍼 상세 패널 — 2개 슬롯, 진행바, 컨트롤 버튼 -->
 
 펼친 상세 패널에는 슬롯 A와 B가 각각 세로로 배치됩니다.
 

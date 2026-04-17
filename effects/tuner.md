@@ -3,7 +3,6 @@
 Analyzes the input signal and displays pitch (note / octave / cents). It sits at the head of the chain and is unaffected by downstream effects.
 
 ![Tuner screen](../screenshots/effect-tuner.png)
-<!-- SCREENSHOT: Tuner — large note name + cents indicator + Frequency + Confidence + Mute -->
 
 ## Layout
 

@@ -3,7 +3,6 @@
 Subtle pitch and time modulation that makes the tone **move**. On acoustic guitar it adds gentle space or a "wet" character.
 
 ![Chorus screen](../screenshots/effect-chorus.png)
-<!-- SCREENSHOT: Chorus — Mode 1-4 buttons + Mix/Width/Character knobs (Expert adds more) -->
 
 ## Layout
 

@@ -5,7 +5,6 @@ Overall feature guide for the acoustic-guitar multi-effector. For per-effect det
 ## 1. App Layout at a Glance
 
 ![Home screen](screenshots/home.png)
-<!-- SCREENSHOT: title bar + channel header (collapsed) + signal chain + effect editor + looper bar -->
 
 ```
 ┌───────────────────────────────────────────────┐
@@ -38,7 +37,6 @@ Overall feature guide for the acoustic-guitar multi-effector. For per-effect det
 Defaults to a single collapsed row. Tap to expand and reveal the channel type toggle (Guitar/Vocal) and gain/pan sliders.
 
 ![Channel header expanded](screenshots/channel-expanded.png)
-<!-- SCREENSHOT: expanded channel header with type toggle + gain/pan sliders -->
 
 **Channel model**
 - Up to **4 simultaneous channels** (CH1–CH4). The app matches the physical input count of your audio interface.
@@ -120,7 +118,6 @@ Some interfaces (Audient iD4, SSL 2+, MOTU M2, etc.) **report loopback channels 
 ## 5. Settings (⚙)
 
 ![Settings sheet](screenshots/settings.png)
-<!-- SCREENSHOT: settings sheet — buffer, sample rate, background audio, physical channel override -->
 
 - **Sample Rate**: 44.1 kHz / 48 kHz (default 48)
 - **Buffer Size**: 32 / 64 / 128 / 256 samples (smaller = lower latency, higher glitch risk)

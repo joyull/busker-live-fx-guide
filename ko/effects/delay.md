@@ -3,7 +3,6 @@
 입력 신호를 일정 시간 늦춰 반복 재생하는 이펙트. **Digital** (깨끗하고 정확)과 **Tape** (따뜻하고 유기적) 두 가지 모드. 어쿠스틱 기타에서는 핑거스타일의 공간감·앰비언트 레이어링·슬랩백 에코 등 다양하게 쓰입니다.
 
 ![Delay 화면](../../screenshots/effect-delay.png)
-<!-- SCREENSHOT: Delay — 상단 Mod Rate + Mode 선택 + TAP, Tape 시 Normal/Fast 피커 추가 표시 -->
 
 ## 화면 구성
 

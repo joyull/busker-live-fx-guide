@@ -3,7 +3,6 @@
 WAV/AIFF 파일을 로드해 **기타 바디/마이크/방/스피커의 녹음 특성**을 그대로 시뮬레이션합니다. 어쿠스틱 기타 IR은 주로 **바디 IR**(고급 마이크로 녹음한 특정 어쿠스틱의 공명 특성)이 많이 쓰입니다.
 
 ![IR Loader 화면](../../screenshots/effect-ir.png)
-<!-- SCREENSHOT: IR Loader — 파일명 표시 + Load 버튼 + Mix/Gain 2노브 -->
 
 ## 화면 구성
 

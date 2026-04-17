@@ -3,7 +3,6 @@
 기타 트랙을 **여러 번 녹음한 것처럼** 두툼하고 넓게 만드는 이펙트. 어쿠스틱 기타 스테레오 레코딩 기법을 실시간으로 흉내냅니다.
 
 ![Doubler 화면](../../screenshots/effect-doubler.png)
-<!-- SCREENSHOT: Doubler — Voices + Expert 스위치 + 메인 노브 4개 + (Expert 시) 추가 노브 3개 -->
 
 ## 화면 구성
 

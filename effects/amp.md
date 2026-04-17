@@ -3,7 +3,6 @@
 Simulates an acoustic guitar amp. Unlike electric amps, this is mostly a **clean preamp + 3-band tone stack + Color character + speaker sim**.
 
 ![AMP Simulator screen](../screenshots/effect-amp.png)
-<!-- SCREENSHOT: AMP — 4 knobs (Gain/Bass/Middle/Treble) + 2 more (Color/Master) + Speaker toggle -->
 
 ## Layout
 

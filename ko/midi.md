@@ -13,7 +13,6 @@
 타이틀 바의 **🎛 MIDI** 아이콘 탭 → MIDI Controller 화면.
 
 ![MIDI Controller 화면](../screenshots/midi-main.png)
-<!-- SCREENSHOT: MIDI 메인 화면 — MIDI Device 섹션 + Mappings 섹션 -->
 
 ```
 ┌─────────────────────────────────────────┐
@@ -48,7 +47,6 @@
 **+** 탭 → Add Mapping 시트.
 
 ![MIDI 매핑 추가](../screenshots/midi-add.png)
-<!-- SCREENSHOT: Add Mapping 시트 — 상단 Trigger 패널 (고정) + 하단 Action 선택 (스크롤) -->
 
 ```
 ┌─────────────────────────────────────────┐

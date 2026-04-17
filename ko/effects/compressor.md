@@ -3,7 +3,6 @@
 큰 소리는 누르고 작은 소리는 덜 누르는 다이내믹 프로세서. 어쿠스틱 기타에서는 핑거피킹의 어택을 균일하게 만들어 녹음·라이브 믹스에서 잘 들리게 합니다.
 
 ![Compressor 화면](../../screenshots/effect-compressor.png)
-<!-- SCREENSHOT: Compressor — 6개 노브/토글 2행 -->
 
 ## 화면 구성
 

@@ -3,7 +3,6 @@
 어쿠스틱 기타 앰프의 톤을 시뮬레이션합니다. 일렉트릭 앰프와 달리 **클린에 가까운 프리앰프 + 3밴드 톤 스택 + Color(캐릭터) + 스피커 시뮬**의 조합입니다.
 
 ![AMP Simulator 화면](../../screenshots/effect-amp.png)
-<!-- SCREENSHOT: AMP — Gain/Bass/Middle/Treble 4개 노브 + Color/Master 2개 노브 + Speaker 토글 -->
 
 ## 화면 구성
 

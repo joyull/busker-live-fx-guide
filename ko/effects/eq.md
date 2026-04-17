@@ -3,7 +3,6 @@
 6밴드 EQ + 하이패스 + 노치 + 위상 반전. 어쿠스틱 기타 특유의 **피드백 주파수**와 **박스토니(공명)** 를 잡기 위해 설계되었습니다.
 
 ![EQ 화면](../../screenshots/effect-eq.png)
-<!-- SCREENSHOT: EQ — Phase 토글 + HPF + 6밴드 노브 + Notch -->
 
 ## 화면 구성
 

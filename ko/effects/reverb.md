@@ -3,7 +3,6 @@
 공간감을 부여하는 이펙트. Dattorro Plate 기반의 알고리즘으로, 5가지 룸 프리셋과 5개 메인 노브(+선택적 Shimmer)로 어쿠스틱 기타에 적합한 자연스러운 공간을 만듭니다.
 
 ![Reverb 화면](../../screenshots/effect-reverb.png)
-<!-- SCREENSHOT: Reverb — 룸 프리셋 스트립 + Mix/Decay/Tone + Pre-Dly/Size(/Shimmer) + Engineer View 토글 -->
 
 ## 화면 구성
 

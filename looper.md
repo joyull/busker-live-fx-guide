@@ -4,8 +4,6 @@ Two-slot loop recorder. A thin bar sits permanently at the bottom of the screen,
 
 ## Layout
 
-![Looper bar collapsed](screenshots/looper-collapsed.png)
-<!-- SCREENSHOT: collapsed looper bar — Looper title + A/B slot indicator dots + ON/OFF toggle -->
 
 ```
 🌀 Looper  ⌄   ●A  ○B                     [ ● ON ]
@@ -16,7 +14,6 @@ Two-slot loop recorder. A thin bar sits permanently at the bottom of the screen,
 - **ON/OFF toggle** — enables the looper. Disabled means it's removed from the DSP chain
 
 ![Looper bar expanded](screenshots/looper-expanded.png)
-<!-- SCREENSHOT: expanded looper detail panel — 2 slots, progress bar, control buttons -->
 
 Inside the expanded panel, Loop A sits above Loop B:
 

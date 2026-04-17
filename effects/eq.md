@@ -3,7 +3,6 @@
 6-band EQ plus a high-pass filter, a narrow notch, and a phase-invert switch. Designed around the acoustic guitar's typical **feedback frequencies** and **box-tone resonance**.
 
 ![EQ screen](../screenshots/effect-eq.png)
-<!-- SCREENSHOT: EQ — Phase toggle + HPF + 6-band knobs + Notch -->
 
 ## Layout
 

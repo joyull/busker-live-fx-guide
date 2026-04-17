@@ -3,7 +3,6 @@
 Loads a WAV/AIFF file and applies it via convolution, reproducing the captured response of a **guitar body, mic, room, or speaker cab**. For acoustic guitar the most common use is a **body IR** — a studio-mic recording of a specific instrument's resonance.
 
 ![IR Loader screen](../screenshots/effect-ir.png)
-<!-- SCREENSHOT: IR Loader — file name display + Load button + Mix/Gain knobs -->
 
 ## Layout
 

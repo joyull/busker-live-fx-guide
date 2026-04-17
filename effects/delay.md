@@ -3,7 +3,6 @@
 Repeats the input signal at a set time interval. Two modes: **Digital** (clean, precise) and **Tape** (warm, organic). On acoustic guitar it's used for fingerstyle space, ambient layering, slapback echo, and more.
 
 ![Delay screen](../screenshots/effect-delay.png)
-<!-- SCREENSHOT: Delay — top row Mod Rate + Mode picker + TAP, Normal/Fast appears in Tape mode -->
 
 ## Layout
 
