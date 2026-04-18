@@ -1,6 +1,6 @@
 # Busker Live FX — 사용 설명서
 
-> 🇬🇧 English version → [../README.md](../README.md)
+<img src="../screenshots/large-icon.png" alt="Busker Live FX">
 
 [Busker Live FX](https://apps.apple.com/app/busker-live-fx) 사용자 가이드입니다. 어쿠스틱 기타와 보컬 라이브·버스킹 현장을 위해 만든 iOS/iPadOS 멀티 이펙터입니다.
 

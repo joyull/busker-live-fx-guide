@@ -1,6 +1,6 @@
 # Busker Live FX — User Manual
 
-<img src="screenshots/large-icon.png" alt="Busker Live FX" width="160">
+<img src="screenshots/large-icon.png" alt="Busker Live FX">
 
 User guide for [Busker Live FX](https://apps.apple.com/app/busker-live-fx), an iOS/iPadOS multi-effector built for acoustic guitar and vocals on live / busking stages.
 
