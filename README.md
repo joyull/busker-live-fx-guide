@@ -23,8 +23,8 @@ User guide for [Busker Live FX](https://apps.apple.com/app/busker-live-fx), an i
 
 ## Language
 
-- 🇬🇧 **English** (this page)
-- 🇰🇷 [한국어](ko/README.md)
+- **English** (this page)
+- [한국어](ko/README.md)
 
 ## About This Manual
 
