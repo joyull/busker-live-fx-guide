@@ -34,6 +34,6 @@ This is the user-facing documentation for Busker Live FX. Screenshots shown inli
 
 Text and images in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and translate with appropriate credit.
 
-**Trademarks**: "Busker Live FX", the Busker Live FX logo, app icon, and splash artwork are trademarks of 강경호 (joyull) and are **not** covered by the CC BY license. See [LICENSE](LICENSE) for details.
+**Trademarks**: "Busker Live FX", the Busker Live FX logo, app icon, and splash artwork are trademarks of joyull and are **not** covered by the CC BY license. See [LICENSE](LICENSE) for details.
 
-© 2026 강경호 (joyull)
+© 2026 joyull

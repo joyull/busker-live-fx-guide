@@ -34,6 +34,6 @@
 
 본 저장소의 텍스트와 이미지는 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 조건에서 공유·수정·번역 가능합니다 (출처 표기 필수).
 
-**상표권**: "Busker Live FX" 명칭, 로고, 앱 아이콘, 스플래시 이미지는 강경호(joyull)의 상표로 **CC BY 라이선스 적용 대상에서 제외**됩니다. 상세는 [LICENSE](../LICENSE) 참고.
+**상표권**: "Busker Live FX" 명칭, 로고, 앱 아이콘, 스플래시 이미지는 joyull의 상표로 **CC BY 라이선스 적용 대상에서 제외**됩니다. 상세는 [LICENSE](../LICENSE) 참고.
 
-© 2026 강경호 (joyull)
+© 2026 joyull

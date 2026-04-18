@@ -1,5 +1,5 @@
 Busker Live FX — User Manual
-Copyright (c) 2026 강경호 (joyull)
+Copyright (c) 2026 joyull
 
 This documentation is licensed under the Creative Commons Attribution 4.0
 International License (CC BY 4.0). See LICENSE file for the full legal text,
@@ -9,7 +9,7 @@ or visit https://creativecommons.org/licenses/by/4.0/.
 TRADEMARK NOTICE
 ================
 
-The following are trademarks of 강경호 (joyull) and are NOT covered by the
+The following are trademarks of joyull and are NOT covered by the
 CC BY 4.0 license. Use requires separate written permission:
 
   - "Busker Live FX" name and any future "Busker Live" product-family
@@ -28,7 +28,7 @@ ATTRIBUTION
 
 When using this documentation, please attribute as:
 
-  "Busker Live FX User Manual" by 강경호 (joyull), licensed under CC BY 4.0.
+  "Busker Live FX User Manual" by joyull, licensed under CC BY 4.0.
   https://github.com/joyull/busker-live-fx-guide
 
 For translations, please note that the Korean version under `ko/` is a
